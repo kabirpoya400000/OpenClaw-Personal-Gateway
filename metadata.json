@@ -1,0 +1,5 @@
+{
+  "name": "OpenClaw Personal Gateway",
+  "description": "A self-contained, private AI gateway for Gemini 2.0 Flash with persistent local storage and password protection.",
+  "requestFramePermissions": []
+}
